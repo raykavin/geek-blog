@@ -1,5 +1,12 @@
+# Images
+
+![Preview of GeekBlog 1](images/image-1.png)
+![Preview of GeekBlog 2](images/image-2.png)
+![Preview of GeekBlog 3](images/image-3.png)
+
 # Project Summary
 The project is a dashboard application designed to provide users with insightful analytics and data visualization tools. It aims to simplify data management and enhance decision-making processes through interactive charts and user-friendly interfaces. 
+
 
 # Project Module Description
 The dashboard comprises various functional modules, including:
